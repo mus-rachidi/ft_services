@@ -1,2 +1,3 @@
 # ft_services
-The project consists of implementing an infrastructure with different services using kubernetes
+Ft_services will introduce you to Kubernetes. You will discover cluster management and
+deployment with Kubernetes. You will virtualize a network and do "clustering".
